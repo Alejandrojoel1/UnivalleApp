@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Univalle Movil</string>
+    <string name="Bienvenida">Bienvenid@s</string>
+    <string name="Cuenta">Cuenta SIU:</string>
+    <string name="Constra">Contraseña:</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Usar">Puedes usar:</string>
+    <string name="luka">Luka</string>
+</resources>
