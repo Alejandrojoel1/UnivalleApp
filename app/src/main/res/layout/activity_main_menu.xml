@@ -17,14 +17,12 @@
         app:srcCompat="@drawable/logo_uni01_1" />
 
     <LinearLayout
-        android:layout_width="383dp"
-        android:layout_height="606dp"
+        android:layout_width="409dp"
+        android:layout_height="642dp"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView2"
-        android:background="@drawable/fondomenu"
-        />
+        app:layout_constraintTop_toBottomOf="@+id/imageView2"></LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
